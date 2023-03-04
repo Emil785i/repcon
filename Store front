@@ -1,0 +1,4 @@
+cd desktop
+mdkir storefront
+cd storefront
+pipenv install django
